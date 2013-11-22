@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+After forking a GitHub repo to a local repo, you can set set up a link to the original 'remote' repo. This allows you to do push requests from your own GitHub repo. 

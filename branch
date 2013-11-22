@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words 
+A branch is just a name for a repo at a particular point. It is used to differentiate project code such that teams may work on different branches without touching other branches. This minimises conflict resolution issues.  
